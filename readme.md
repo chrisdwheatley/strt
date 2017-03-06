@@ -2,7 +2,7 @@
 
 A file watching application restarter for your `npm start` command.
 
-<a href="https://npmjs.com/strt"><img src="https://raw.githubusercontent.com/chrisdwheatley/strt/test-image-readme/images/strt-init.png"></a>
+<a href="https://npmjs.com/strt"><img src="https://raw.githubusercontent.com/chrisdwheatley/strt/master/images/strt-init.png" width="50%"></a>
 
 ## Features
 
