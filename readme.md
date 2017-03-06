@@ -4,6 +4,8 @@ A file watching application restarter for your `npm start` command.
 
 ![strt example flow](https://raw.githubusercontent.com/chrisdwheatley/strt/master/images/strt-flow-example.png)
 
+<a href="https://npmjs.com/strt"><img src="https://raw.githubusercontent.com/chrisdwheatley/strt/master/images/strt-flow-example.png" align="center" height="600" width="600"></a>
+
 ## Features
 
 * __Reliable__ - A development environment matching your production environment by running the same command you do in production (`npm start`).
