@@ -22,8 +22,5 @@
   "bin": {
     "strt": "./bin/strt.js"
   },
-  "repository": "chrisdwheatley/strt",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 0"
-  }
+  "repository": "chrisdwheatley/strt"
 }
