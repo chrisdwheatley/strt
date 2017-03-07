@@ -1,6 +1,6 @@
 {
   "name": "strt",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A file watching application restarter for your 'npm start' command.",
   "main": "./index.js",
   "author": "Chris Draycott-Wheatley <chriswheatley87@gmail.com>",
